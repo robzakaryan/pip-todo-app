@@ -1,6 +1,2 @@
-mek
-erku
-ereq
-clean
-run
-fndl
+hello
+go home
