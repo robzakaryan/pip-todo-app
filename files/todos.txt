@@ -1,6 +1,0 @@
-mek
-erku
-ereq
-clean
-run
-fndl
