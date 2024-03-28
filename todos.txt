@@ -1,4 +1,3 @@
-clean the house
-go home
+learn python
 sleep
 eat
