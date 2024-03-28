@@ -1,3 +1,0 @@
-learn python
-sleep
-eat

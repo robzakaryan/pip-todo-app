@@ -1,6 +1,11 @@
 import functions
 import PySimpleGUI as Gui
 import time
+import os
+
+if not os.path.exists('todos.txt'):
+    with open('todos.txt', 'w') as file:
+        pass
 
 Gui.theme('BlueMono')
 label_clock = Gui.Text('', key='clock')
